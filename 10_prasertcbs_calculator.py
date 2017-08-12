@@ -15,3 +15,4 @@ h = int(input("Height = "))
 
 print ("Area = ",rectangle(w, h))
 print ("Triangle = ",triangle(w, h))
+print ("Add this text one LINE")
